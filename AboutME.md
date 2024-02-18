@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anikethdevadiga
-- 👀 I’m interested in Soft ware Engineering, Automobiles like ADAS Systems, Web Development, etc..
+- 👀 I’m interested in Software Engineering, Automobiles like ADAS Systems, Web Development, etc..
 - 🌱 I’m currently learning AIML
 - 📫 How to reach me insta: aniketh_17dc, linkedin: anikethdevadiga
 - 😄 Pronouns: HE/HIM
